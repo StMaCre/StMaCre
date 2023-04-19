@@ -2,6 +2,7 @@
 ## Aspiring Data scientist and Machine Learning engineer. 
 
 ## 👨‍💻 Machine learning Projects :
+- [Flagging high-risk loan customers](https://github.com/StMaCre/Flag_Loans)
 
 ## 📜 Natural Language Processing Projects :
 - [NGO Classification using Natural Language Processing](https://github.com/StMaCre/NLP_Classification_NGO)
