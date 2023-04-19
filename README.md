@@ -4,6 +4,8 @@
 ## 👨‍💻 Machine learning Projects :
 
 ## 📜 Natural Language Processing Projects :
+- [NGO Classification using Natural Language Processing](https://github.com/StMaCre/NLP_Classification_NGO)
+- [Song level analysis](https://github.com/StMaCre/NLP_Song_level_analysis)
 
 ## 📊 Data Science Projects :
 **Data Visualization and Wrangling**
