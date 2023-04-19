@@ -1,4 +1,4 @@
-# Hey, I'm Stéphanie! 
+# Hey, I'm Stéphanie 🐝! 
 ## Aspiring Data scientist and Machine Learning engineer. 
 
 ## 👨‍💻 Machine learning Projects :
