@@ -13,5 +13,8 @@
 - [Analysis of the state of real estate market in Vilnius](https://github.com/StMaCre/DS_Real_estate/)
 - [Analysis of the children literature sector in Lithuania](https://github.com/StMaCre/DS_youth_literature_lithuania/)
 
+## Ongoing Project: 
+- [Parliament Speech Analyzer](https://github.com/StMaCre/NLP_Parlement)
+
 ## 🦉 Connect with me :
 - [LinkedIn](https://www.linkedin.com/in/st%C3%A9phanie-cr%C3%AAteur-79050086/)
