@@ -1,8 +1,9 @@
 # Hey, I'm Stéphanie 🐝! 
 ## Aspiring Data scientist and Machine Learning engineer. 
 
-## 👨‍💻 Machine learning Projects :
+## 👨‍💻 Machine learning/Deep learning Projects :
 - [Flagging high-risk loan customers](https://github.com/StMaCre/Flag_Loans)
+- [Financial News Sentiment Classification](https://github.com/StMaCre/financial-news-sentiment-classification/tree/main)
 
 ## 📜 Natural Language Processing Projects :
 - [NGO Classification using Natural Language Processing](https://github.com/StMaCre/NLP_Classification_NGO)
