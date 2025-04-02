@@ -1,5 +1,5 @@
 # Hey, I'm Stéphanie 🐝! 
-## Aspiring Data scientist and Machine Learning engineer. 
+## Data scientist and Machine Learning engineer. 
 
 ## 👨‍💻 Machine learning/Deep learning Projects :
 - [Flagging high-risk loan customers](https://github.com/StMaCre/Flag_Loans)
