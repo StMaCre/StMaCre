@@ -1,7 +1,11 @@
 # Hey, I'm Stéphanie 🐝! 
-## Data scientist and Machine Learning engineer. 
+I'm an **AI Solutions Lead** and **Python Data Scientist** with a deep focus on **Natural Language Processing (NLP)** and **Generative AI**. 
 
-## 👨‍💻 Machine learning/Deep learning Projects :
+##  LLMs and AI-driven workflow
+- [Academic Article PDF Data Extractor using Gemini API](https://github.com/StMaCre/database_extractor)
+- [Automatic contract creation](https://github.com/StMaCre/contract_creator) 
+
+##👨‍💻 Machine learning/Deep learning Projects :
 - [Flagging high-risk loan customers](https://github.com/StMaCre/Flag_Loans)
 - [Financial News Sentiment Classification](https://github.com/StMaCre/financial-news-sentiment-classification/tree/main)
 
@@ -10,7 +14,7 @@
 - [Song level analysis](https://github.com/StMaCre/NLP_Song_level_analysis)
 
 ## 📊 Data Science Projects :
-**Data Visualization and Wrangling**
+**Data Visualisation and Wrangling**
 - [Analysis of the state of real estate market in Vilnius](https://github.com/StMaCre/DS_Real_estate/)
 - [Analysis of the children literature sector in Lithuania](https://github.com/StMaCre/DS_youth_literature_lithuania/)
 
