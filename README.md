@@ -1,11 +1,11 @@
 # Hey, I'm Stéphanie 🐝! 
 I'm an **AI Solutions Lead** and **Python Data Scientist** with a deep focus on **Natural Language Processing (NLP)** and **Generative AI**. 
 
-##  LLMs and AI-driven workflow
+## 🧠 LLMs and AI-driven workflow
 - [Academic Article PDF Data Extractor using Gemini API](https://github.com/StMaCre/database_extractor)
 - [Automatic contract creation](https://github.com/StMaCre/contract_creator) 
 
-##👨‍💻 Machine learning/Deep learning Projects :
+## 👨‍💻 Machine learning/Deep learning Projects :
 - [Flagging high-risk loan customers](https://github.com/StMaCre/Flag_Loans)
 - [Financial News Sentiment Classification](https://github.com/StMaCre/financial-news-sentiment-classification/tree/main)
 
